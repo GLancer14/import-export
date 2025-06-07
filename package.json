@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GLancer14/webpack.git"
+    "url": "git+https://github.com/GLancer14/import-export.git"
   },
   "author": "GLancer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GLancer14/webpack/issues"
+    "url": "https://github.com/GLancer14/import-export/issues"
   },
-  "homepage": "https://github.com/GLancer14/webpack#readme",
+  "homepage": "https://github.com/GLancer14/import-export#readme",
   "description": "",
   "devDependencies": {
     "babel-loader": "^10.0.0",
